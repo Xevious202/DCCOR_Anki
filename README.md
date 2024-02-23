@@ -1,6 +1,6 @@
-#### _This is a Work in Progress a/o June 2021_
+#### _This is a Work in Progress a/o Feb 2024_
 
-This is an Anki deck made to help anyone study for the Cisco DevNet Associate Exam.
+This is an Anki deck made to help anyone study for the Cisco DCCOR Exam.
 
 ## Prerequisites
 - Install Anki Desktop
@@ -17,9 +17,10 @@ Indicate level of knowledge needed on each topic. Associate level is (on average
 | Verb | Difficulty |
 | ------ | ------ |
 | Design | Expert level; No instances found on this Blueprint |
-| Troubleshoot | Professional level; Understand show commands and how to spot/fix misconfigured values |
-| Construct | Associate level; You may be asked how to configure this |
-| Describe | Conceptual, likely not covered in simulated environment questions |
+| Explain | Professional level; Understand show commands, identify and fix misconfigurations |
+| Analyze | Intermediate Level; Make inferences and find evidence to support generalizations |
+| Apply|Implement | Associate level; You may be asked how to configure this |
+| Describe | Conceptual, likely not covered by simulated environment questions |
 
 # Exam Blueprint | 0 Cards Total
 ## 1.0 Network 25% | 0 Cards Created
