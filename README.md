@@ -14,13 +14,13 @@ This is an Anki deck made to help anyone study for the Cisco DCCOR Exam.
 - If you'd like to add cards to this deck, please contribute them!
 ## Blueprint Verbs are important! (SRC: [Bloom's Taxonomy])
 Indicate level of knowledge needed on each topic. Associate level is (on average) just above "Describe"
-| Verb | Difficulty |
-| ------ | ------ |
-| Design | Expert level; No instances found on this Blueprint |
-| Explain | Professional level; Understand show commands, identify and fix misconfigurations |
-| Analyze | Intermediate Level; Make inferences and find evidence to support generalizations |
-| Apply or Implement | Associate level; You may be asked how to configure this |
-| Describe | Conceptual, likely not covered by simulated environment questions |
+| Verb | Difficulty | Notes |
+| ------ | ------ | ------ |
+| Design | Expert level | No instances found on this Blueprint |
+| Explain | Professional level | Understand show commands, identify and fix misconfigurations |
+| Analyze | Intermediate Level | Make inferences and find evidence to support generalizations |
+| Apply or Implement | Associate level | You may be asked how to configure this |
+| Describe | Conceptual | Likely not covered by simulated environment questions |
 
 # Exam Blueprint | 0 Cards Total
 ## 1.0 Network 25% | 0 Cards Created
